@@ -1,0 +1,26 @@
+{
+  "name": "package-republish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonvey/package-republish.git"
+  },
+  "keywords": [
+    "package",
+    "republish"
+  ],
+  "author": "Tonvey",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Tonvey/package-republish/issues"
+  },
+  "homepage": "https://github.com/Tonvey/package-republish#readme",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
